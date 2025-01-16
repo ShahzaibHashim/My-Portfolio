@@ -24,7 +24,7 @@ const Contact = () => {
                   ADDRESS
                 </h2>
                 <p className="mt-1">
-                  House no 22/29 Sector 11-D New Karachi, Karachi Pakistan
+                  North Karachi, Karachi Pakistan
                 </p>
               </div>
               <div className="lg:w-1/2 px-6 mt-4 lg:mt-0">
